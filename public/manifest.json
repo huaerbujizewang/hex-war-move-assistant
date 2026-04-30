@@ -1,0 +1,12 @@
+{
+  "name": "Hex War Move Assistant",
+  "version": "0.1.0",
+  "manifest_version": 1,
+  "action": {
+    "title": "Hex Move",
+    "icon": "/icon.svg",
+    "popover": "/",
+    "height": 720,
+    "width": 380
+  }
+}
